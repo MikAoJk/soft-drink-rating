@@ -1,11 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: black;
   position: fixed;
   top: 50%;
   left: 50%;
 }
+table, th, td {
+  border: 1px solid;
+}
 
 h1 {
-  color: navy;
   margin-left: 20px;
 }
