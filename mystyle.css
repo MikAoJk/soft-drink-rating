@@ -12,9 +12,3 @@ body {
 table, th, td {
   border: 1px solid;
 }
-
-h1 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
