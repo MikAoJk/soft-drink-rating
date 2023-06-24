@@ -1,17 +1,7 @@
 body {
   background-color: #000000;
   color: white;
-}
-
-.rating {
   font-size: x-large;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.rating-h1 {
-  font-size: large;
   display: flex;
   align-items: center;
   justify-content: center;
