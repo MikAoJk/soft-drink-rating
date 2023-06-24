@@ -1,12 +1,13 @@
 body {
+  background-color: black;
+}
+
+.rating {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 table, th, td {
   border: 1px solid;
-}
-
-h1 {
-  margin-left: 20px;
 }
