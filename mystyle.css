@@ -1,10 +1,6 @@
 body {
   background-color: #000000;
   color: white;
-  font-size: x-large;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 table, th, td {
@@ -15,4 +11,17 @@ th, td {
   padding-bottom: 20px;
   padding-left: 30px;
   padding-right: 40px;
+}
+
+.rating-h1 {
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rating {
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
