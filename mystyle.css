@@ -11,10 +11,6 @@ th, td {
   padding: 10px 30px 15px 20px;
 }
 
-tr:hover {
-  background-color: blue;
-}
-
 .rating-h1 {
   font-size: xx-large;
   display: flex;
