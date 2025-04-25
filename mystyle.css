@@ -7,6 +7,11 @@ table, th, td {
   border: 1px solid;
 }
 
+td:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
+
 th, td {
   padding: 10px 30px 15px 20px;
 }
